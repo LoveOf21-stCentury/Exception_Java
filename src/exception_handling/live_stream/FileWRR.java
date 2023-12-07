@@ -1,4 +1,4 @@
-package exception_handling;
+package exception_handling.live_stream;
 
 import java.io.*;
 import java.util.ArrayList;

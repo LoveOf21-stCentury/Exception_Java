@@ -1,4 +1,4 @@
-package exception_handling;
+package exception_handling.live_stream;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
